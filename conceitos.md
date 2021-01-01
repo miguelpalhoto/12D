@@ -2,7 +2,7 @@
 - Socialização primária
 - Socialização secundária
 
-==Metodologia==
+## Metodologia
 Recorrendo a exemplos, explicar os conceitos de socialização primária e secundária. 
 
 - Características da socialização
