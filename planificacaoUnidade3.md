@@ -9,6 +9,18 @@ A unidade 3 pertence ao tema 2.
 
 ## Planificação da Unidade 3 - Cultura e Socialização
 ### Conteúdos 
+
+#### 3.2. Socialização
+**Conceitos**
+- Socialização
+- Integração social
+- Mecanismos de socialização:
+- aprendizagem
+- imitação
+- identificação
+- Agentes de socialização
+
+
 #### 3.1. Cultura
 **Conceitos**
  + Cultura 
@@ -41,16 +53,6 @@ Para introduzir este tema, iremos:
 	 - conceções de cultura interiorizadas pelos alunos. 
 	 - Fazer um levantamento, com os alunos, de padrões culturais de diferentes grupos e/ou povos, nomeadamente ao nível do vestuário, dos hábitos alimentares e das religiões, com o objetivo de constatar a diversidade cultural.
 
-
-#### 3.2. Socialização
-**Conceitos**
-- Socialização
-- Integração social
-- Mecanismos de socialização:
-- aprendizagem
-- imitação
-- identificação
-- Agentes de socialização
 
 
 
